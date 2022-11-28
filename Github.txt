@@ -1,0 +1,6 @@
+checkout and switch is same
+
+Adding branch- git branch branch_name
+checkout branch - git checkout branch_name
+direct checkout - git checkout -b[branch_name]
+combining branches - git rebase branch_name
